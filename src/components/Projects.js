@@ -23,7 +23,7 @@ export const Projects = () => {
     },
     {
       title: "Amazon App Redesign",
-      description: "This project incorporated X (Twiiter) like functionality in Amazon, drawing users away from X, and into the Amazon ecosystem. Visit <a href='https://www.figma.com/file/NUYOaTfR0A5xGv2p4P5D7M/Pei-Fang-Chiang_Spring24?type=design&node-id=819-290&mode=design'>Figma</a> to learn more about the portfolio and high fidelity prototype.",
+      description: "This project incorporated X (Twitter) like functionality in Amazon, drawing users away from X, and into the Amazon ecosystem. Visit <a href='https://www.figma.com/file/NUYOaTfR0A5xGv2p4P5D7M/Pei-Fang-Chiang_Spring24?type=design&node-id=819-290&mode=design'>Figma</a> to learn more about the portfolio and high fidelity prototype.",
       skills: ["Figma", "User Experience Design", "Sprint Design", "Problem-Solving"],
       imgUrl: projImg4,
     },
